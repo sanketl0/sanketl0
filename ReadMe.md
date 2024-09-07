@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Software software developer.<br>I am currently working in CodeRize technologies Pvt Ltd pune an software engineer.<br>
+I am Software software developer.<br>I am currently working in CodeRize technologies Pvt Ltd pune as a software engineer.<br>
 I am currently working on Angular and python.<br>
 
 # 💻 Tech Stack:
